@@ -10,7 +10,7 @@
 
 基本上参考资料引用aframe-ar.js都是这个连接：https://cdn.rawgit.com/jeromeetienne/AR.js/1.6.0/aframe/build/aframe-ar.js，
 
-但是这个需要翻墙，所以要去https://github.com/jeromeetienne/AR.js/blob/master/aframe/build/aframe-ar.min.js下载引用。
+但是这个需要翻墙，所以要去https://github.com/jeromeetienne/AR.js/blob/master/aframe/build/aframe-ar.min.js 下载引用。
 
 
 
@@ -32,7 +32,9 @@
 
 
 
-比较诡异的是使用https://cdn.rawgit.com/jeromeetienne/AR.js/1.6.0/aframe/build/aframe-ar.js时，
+`对与duck模型`
+
+比较诡异的是使用https://cdn.rawgit.com/jeromeetienne/AR.js/1.6.0/aframe/build/aframe-ar.js 时，
 
 ```html
 <a-entity
@@ -52,7 +54,7 @@
 
 
 
-而使用https://github.com/jeromeetienne/AR.js/blob/master/aframe/build/aframe-ar.min.js时，
+而使用https://github.com/jeromeetienne/AR.js/blob/master/aframe/build/aframe-ar.min.js 时，
 
 ```html
 <a-entity         
