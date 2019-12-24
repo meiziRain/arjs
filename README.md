@@ -72,4 +72,19 @@
 
 
 
+有时候会看不到模型，可能不是代码错误，而是模型位置与角度的关系，调整比较耗时间。
+
+### 参考资料
+
+
+
 坐标概念图：https://www.techbrood.com/aframe/guides?p=building-a-basic-scene#transforming-an-entity-in-3d
+
+https://william-weng.github.io/2019/08/11/arjs-qrcode-demo/#
+
+https://blog.arvinh.info/2019/07/16/web-ar/
+
+https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+
+https://juejin.im/post/5de53fa15188256ed6123a1d#comment
+
