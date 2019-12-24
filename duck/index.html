@@ -22,9 +22,12 @@
     <a-scene embedded arjs="sourceType: webcam;debugUIEnabled: false;">
       <a-marker preset="hiro">
         <!-- 字不设rotation 字不显示 -->
+        <!-- position="0 0 0" -->
+        <!-- rotation="-50 -50 -50" -->
+        <!-- 文字居中垂直 -->
         <a-entity     
           position="0 0 0"
-          rotation="-50 -50 -50"
+          rotation="-50 -50 0"
           text="width: 5; value:weeeeeeeeeeeeeeeeeee;"
         ></a-entity>
         <a-entity
